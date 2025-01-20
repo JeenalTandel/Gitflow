@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-=======
-Hiii its jeenal
+
 one
 tow
 
@@ -18,7 +16,3 @@ pqr
 
 stu
 
-
-
-
->>>>>>> 9c3638a (7 commit)
