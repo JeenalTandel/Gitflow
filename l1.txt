@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+=======
+Hiii its jeenal
+one
+tow
+
+abc
+
+def
+
+ghi
+
+jkl
+
+mno
+
+pqr
+
+stu
+
+
+
+
+>>>>>>> 9c3638a (7 commit)
