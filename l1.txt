@@ -1,30 +1,5 @@
 
-one
-tow
 
-abc
 
-def
 
-ghi
 
-jkl
-mno
-
-pqr
-
-stu
-
-1
-
-2
-
-3
-
-<<<<<<< HEAD
-=======
-4
-
-5
-
->>>>>>> 2918f8d (5 commit)
